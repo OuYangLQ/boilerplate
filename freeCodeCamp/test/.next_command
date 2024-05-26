@@ -162,3 +162,5 @@ cd ../../..
 ls --color=auto
 cd images/
 ls --color=auto
+pwd
+mv header.png ..
