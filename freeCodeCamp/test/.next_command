@@ -213,3 +213,4 @@ touch package.json
 touch server.js
 touch REMIND.md
 touch README.md
+ls --color=auto
