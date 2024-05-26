@@ -57,7 +57,7 @@
   "update.mode": "none",
   "update.showReleaseNotes": false,
   "workbench.enableExperiments": false,
-  "workbench.startupEditor": "none",
+  "workbench.startupEditor": "welcomePage",
   "workbench.colorTheme": "Tomorrow Night Blue",
   "workbench.colorCustomizations": {
     "[Tomorrow Night Blue]": {

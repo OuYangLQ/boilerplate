@@ -31,3 +31,4 @@ git branch
 git push -u origin main
 clear
 echo hello terminal
+pwd
