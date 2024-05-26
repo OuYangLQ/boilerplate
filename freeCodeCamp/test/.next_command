@@ -216,3 +216,4 @@ touch README.md
 ls --color=auto
 rm REMIND.md
 echo Yay!
+echo I finished the boilerplate!
