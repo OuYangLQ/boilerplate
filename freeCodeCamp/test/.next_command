@@ -139,3 +139,4 @@ find -name styles.css
 find -name src
 find
 cd client/
+mkdir assets
