@@ -172,3 +172,5 @@ find
 find -name client/assets/images
 find -help
 find -name images
+ls --color=auto
+mv header.png ./client/assets/images/
