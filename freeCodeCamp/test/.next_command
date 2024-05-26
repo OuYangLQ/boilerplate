@@ -175,3 +175,5 @@ find -name images
 ls --color=auto
 mv header.png ./client/assets/images/
 find -name header.png
+find footer.jpeg
+find -name footer.jpeg
