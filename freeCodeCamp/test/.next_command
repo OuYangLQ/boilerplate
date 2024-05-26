@@ -32,3 +32,4 @@ git push -u origin main
 clear
 echo hello terminal
 pwd
+ls --color=auto
