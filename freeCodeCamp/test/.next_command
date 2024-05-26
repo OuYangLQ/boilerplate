@@ -227,3 +227,4 @@ more README.md
 pwd
 cd ..
 ls --color=auto
+mv website website-boilerplate
