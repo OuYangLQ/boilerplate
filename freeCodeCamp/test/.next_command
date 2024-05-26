@@ -195,3 +195,4 @@ mv client/assets/icons/CodeRoad.svg .
 ls --color=auto
 mv CodeRoad.svg client/assets/icons/
 mv freeCodeCamp.svg client/assets/icons/
+find
